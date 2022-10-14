@@ -1,13 +1,17 @@
 Hi 👋 My name is SALEM SALMEN ALMAARE
 =====================================
 
-*   🧠  I'm learning ASP .NET MVC
-- 👀 I’m interested in ..Database
+*   🧠  I'm learning Programming
+- 👀 I’m interested in Database
 - 🌱 I’m currently learning Back-end 
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me ...
 *   ✉️  You can contact me at [jakihop889@gmail.com](mailto:jakihop889@gmail.com)
+                  ### Socials
 
+##GitHub https://www.github.com/salemovic99
+##StackOverFlow https://www.stackoverflow.com/users/16188651/salem-ovic
+##Twitter https://www.twitter.com/salimovic99
 
 ### Skills 
 
@@ -18,16 +22,7 @@ Hi 👋 My name is SALEM SALMEN ALMAARE
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 </p>
                     
-                  ### Socials
                   
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/salemovic99" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.stackoverflow.com/users/16188651/salem-ovic" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/salimovic99" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>- 👋 Hi, I’m @salemovic99
 
 <!---
 salemovic99/salemovic99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
