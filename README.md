@@ -7,12 +7,12 @@ Hi 👋 My name is SALEM SALMEN ALMAARE
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me ...
 *   ✉️  You can contact me at [jakihop889@gmail.com](mailto:jakihop889@gmail.com)         
-*   
+
 ### *Socials*
 
  - [https://www.github.com/salemovic99](https://www.github.com/salemovic99)
  - [https://www.stackoverflow.com/users/16188651/salem-ovic](https://www.stackoverflow.com/users/16188651/salem-ovic) 
- - [[twitter](https://www.twitter.com/salimovic99)](https://www.twitter.com/salimovic99)
+ - [https://www.twitter.com/salimovic99)](https://www.twitter.com/salimovic99)
 
 ### *Skills* 
 
