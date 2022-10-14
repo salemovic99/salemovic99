@@ -9,10 +9,10 @@ Hi 👋 My name is SALEM SALMEN ALMAARE
 *   ✉️  You can contact me at [jakihop889@gmail.com](mailto:jakihop889@gmail.com)         
 *   
 ### *Socials*
-|------------------------------------------|
-### GitHub https://www.github.com/salemovic99
-### StackOverFlow https://www.stackoverflow.com/users/16188651/salem-ovic
-### Twitter https://www.twitter.com/salimovic99
+
+### GitHub ([github](https://www.github.com/salemovic99)) 
+### StackOverFlow [stackoverflow](https://www.stackoverflow.com/users/16188651/salem-ovic) 
+### Twitter [twitter](https://www.twitter.com/salimovic99))  
 
 ### *Skills* 
 
