@@ -10,9 +10,9 @@ Hi 👋 My name is SALEM SALMEN ALMAARE
 *   
 ### *Socials*
 
-### GitHub ([github](https://www.github.com/salemovic99)) 
-### StackOverFlow [stackoverflow](https://www.stackoverflow.com/users/16188651/salem-ovic) 
-### Twitter [twitter](https://www.twitter.com/salimovic99))  
+ - [https://www.github.com/salemovic99](https://www.github.com/salemovic99)
+ - [https://www.stackoverflow.com/users/16188651/salem-ovic](https://www.stackoverflow.com/users/16188651/salem-ovic) 
+ - [[twitter](https://www.twitter.com/salimovic99)](https://www.twitter.com/salimovic99)
 
 ### *Skills* 
 
