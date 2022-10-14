@@ -8,13 +8,13 @@ Hi 👋 My name is SALEM SALMEN ALMAARE
 - 📫 How to reach me ...
 *   ✉️  You can contact me at [jakihop889@gmail.com](mailto:jakihop889@gmail.com)         
 *   
-* # Socials
+### *Socials*
+|------------------------------------------|
+### GitHub https://www.github.com/salemovic99
+### StackOverFlow https://www.stackoverflow.com/users/16188651/salem-ovic
+### Twitter https://www.twitter.com/salimovic99
 
-# GitHub https://www.github.com/salemovic99
-# StackOverFlow https://www.stackoverflow.com/users/16188651/salem-ovic
-# Twitter https://www.twitter.com/salimovic99
-
-### Skills 
+### *Skills* 
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
