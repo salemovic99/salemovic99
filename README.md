@@ -1,8 +1,14 @@
 Hi 👋 My name is SALEM SALMEN ALMAARE
 =====================================
 
-*   ✉️  You can contact me at [jakihop889@gmail.com](mailto:jakihop889@gmail.com)
 *   🧠  I'm learning ASP .NET MVC
+- 👀 I’m interested in ..Database
+- 🌱 I’m currently learning Back-end 
+- 💞️ I’m looking to collaborate on Projects
+- 📫 How to reach me ...
+*   ✉️  You can contact me at [jakihop889@gmail.com](mailto:jakihop889@gmail.com)
+
+
 ### Skills 
 
 <p align="left">
@@ -22,10 +28,6 @@ Hi 👋 My name is SALEM SALMEN ALMAARE
                       <a href="https://www.stackoverflow.com/users/16188651/salem-ovic" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
                           
                       <a href="https://www.twitter.com/salimovic99" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>- 👋 Hi, I’m @salemovic99
-- 👀 I’m interested in ..Database
-- 🌱 I’m currently learning Back-end 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 salemovic99/salemovic99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
