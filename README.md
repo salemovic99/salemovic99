@@ -3,16 +3,14 @@ Hi 👋 My name is SALEM SALMEN ALMAARE
 
 *   🧠  I'm learning Programming
 - 👀 I’m interested in Database
-- 🌱 I’m currently learning Back-end 
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me ...
 *   ✉️  You can contact me at [jakihop889@gmail.com](mailto:jakihop889@gmail.com)         
 
 ### *Socials*
 
- - [https://www.github.com/salemovic99](https://www.github.com/salemovic99)
- - [https://www.stackoverflow.com/users/16188651/salem-ovic](https://www.stackoverflow.com/users/16188651/salem-ovic) 
- - [https://www.twitter.com/salimovic99)](https://www.twitter.com/salimovic99)
+ ### [Github](https://www.github.com/salemovic99)
+ ### [stackoverflow](https://www.stackoverflow.com/users/16188651/salem-ovic) 
+ ### [twitter](https://www.twitter.com/salimovic99)
 
 ### *Skills* 
 
