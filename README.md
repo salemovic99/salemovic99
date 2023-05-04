@@ -37,9 +37,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+  <code href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/349328/cplusplus.svg" alt="cplusplus" width="40" height="40"/>
-  </a> 
+    
+  </code> 
   
   
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
