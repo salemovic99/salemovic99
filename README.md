@@ -85,7 +85,7 @@
   
 </p>
 
-📈 my github stats
+<br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salemovic99&show_icons=true&locale=en&layout=compact" alt="salemovic99" /></p>
 
