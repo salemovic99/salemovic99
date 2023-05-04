@@ -27,6 +27,10 @@
   <img align="center" src="https://www.svgrepo.com/show/468758/email.svg" alt="salemovicc" height="30" width="40" />
 </a>
 
+  <a href="https://github.com/salemovic99" target="blank">
+  <img align="center" src="https://www.svgrepo.com/show/512317/github-142.svg" alt="salemovicc" height="30" width="40" />
+</a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
