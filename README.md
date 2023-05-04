@@ -58,6 +58,13 @@
     <img src="https://www.svgrepo.com/show/353925/javascript.svg"alt="javascript" width="40" height="40"/> 
   </a>
 
+  <a href="https://www.svgrepo.com/svg/353925/javascript" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/452228/html-5.svg"alt="html" width="40" height="40"/> 
+  </a>
+  <a href="https://www.svgrepo.com/svg/353925/javascript" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/373535/css.svg"alt="css" width="40" height="40"/> 
+  </a>
+  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salemovic99&show_icons=true&locale=en&layout=compact" alt="salemovic99" /></p>
