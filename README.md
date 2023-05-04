@@ -9,6 +9,8 @@
 - 🌱 I’m currently learning **ASP .NET MVC**
 
 - 📫 How to reach me **jakihop889@gmail.com**
+- 
+- 💬 ask me about anything, i am happy to help;
 
 
 
