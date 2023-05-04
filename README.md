@@ -39,41 +39,41 @@
 <p align="left">
   
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/349328/cplusplus.svg" alt="cplusplus" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/349328/cplusplus.svg" alt="cplusplus" width="30" height="30"/>
     
   </a> 
   
   
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/452184/csharp.svg" alt="csharp" width="40" height="40"/> 
+    <img src="https://www.svgrepo.com/show/452184/csharp.svg" alt="csharp" width="30" height="30"/> 
   </a>
   
   
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/376369/dotnet.svg" alt="dotnet" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/376369/dotnet.svg" alt="dotnet" width="30" height="30"/>
   </a> 
   
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
   </a>
   
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/512317/github-142.svg" alt="github" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/512317/github-142.svg" alt="github" width="30" height="30"/>
   </a>
   
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
   </a> 
   
   
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"  alt="mssql" width="40" height="40"/> 
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"  alt="mssql" width="30" height="30"/> 
   </a>
   
   
   <a href="https://www.svgrepo.com/svg/353925/javascript" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/353925/javascript.svg"alt="javascript" width="40" height="40"/> 
+    <img src="https://www.svgrepo.com/show/353925/javascript.svg"alt="javascript" width="30" height="30"/> 
   </a>
 
   <a href="https://www.svgrepo.com/svg/353925/javascript" target="_blank" rel="noreferrer"> 
