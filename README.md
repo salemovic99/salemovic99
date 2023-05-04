@@ -14,16 +14,16 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://twitter.com/salemovic90" target="blank">
+<a href="https://twitter.com/salemovic90" target="_blank">
   <img align="center" src="https://www.svgrepo.com/show/475689/twitter-color.svg" alt="salemovic90" height="30" width="40" />
   </a>
   
-<a href="https://instagram.com/salemovicc" target="blank">
+<a href="https://instagram.com/salemovicc" target="_blank">
   <img align="center" src="https://www.svgrepo.com/show/475658/instagram-color.svg" alt="salemovicc" height="30" width="40" />
   </a>
 
 
-<a href="maleto:jakihop889gmail.com" target="blank">
+<a href="maleto:jakihop889gmail.com" target="_blank">
   <img align="center" src="https://www.svgrepo.com/show/468758/email.svg" alt="salemovicc" height="30" width="40" />
 </a>
 
