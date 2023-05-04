@@ -77,10 +77,10 @@
   </a>
 
   <a href="https://www.svgrepo.com/svg/353925/javascript" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/452228/html-5.svg"alt="html" width="40" height="40"/> 
+    <img src="https://www.svgrepo.com/show/452228/html-5.svg"alt="html" width="30" height="30"/> 
   </a>
   <a href="https://www.svgrepo.com/svg/353925/javascript" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/373535/css.svg"alt="css" width="40" height="40"/> 
+    <img src="https://www.svgrepo.com/show/373535/css.svg"alt="css" width="30" height="30"/> 
   </a>
   
 </p>
