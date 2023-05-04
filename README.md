@@ -13,10 +13,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/salemovic90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="salemovic90" height="30" width="40" /></a>
-<a href="https://instagram.com/salemovicc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salemovicc" height="30" width="40" /></a>
+  
+<a href="https://twitter.com/salemovic90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="salemovic90" height="30" width="40" />
+  </a>
+  
+<a href="https://instagram.com/salemovicc" target="blank"><img align="center" src="https://www.svgrepo.com/show/475658/instagram-color.svg" alt="salemovicc" height="30" width="40" /></a>
 </p>
 
+<a href="maleto:jakihop889gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/468758/email.svg" alt="salemovicc" height="30" width="40" /></a>
+
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
