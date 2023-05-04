@@ -13,7 +13,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+**Connect with me:**
 <p align="left">
   
 <a href="https://twitter.com/salemovic90" target="blank">
