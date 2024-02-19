@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm SALEM SALEMN</h1>
-# Web Developer
-Welcome to my corner of the web! I'm salem almaari,
-                         a passionate and dedicated web developer committed to crafting digital experiences that are not just visually appealing but also functional and user-friendly.
+# Web Developer.
+## Welcome to my corner of the web! I'm salem almaari,
+a passionate and dedicated web developer committed to crafting digital experiences that are not just visually appealing but also functional and user-friendly.
 <img align="rigt" alt="Coding" wigth="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
-
-
-
-
-- 🌱 I’m currently learning **ASP .NET MVC**
 
 - 📫 How to reach me **jakihop889@gmail.com**
 - 💬 ask me about anything, i am happy to help;
