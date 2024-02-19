@@ -1,18 +1,7 @@
-<h1 align="center">Hi 👋, I'm SALEM SALEMN</h1>
-# Web Developer.
-## Welcome to my corner of the web! I'm salem almaari,
-a passionate and dedicated web developer committed to crafting digital experiences that are not just visually appealing but also functional and user-friendly.
-<img align="rigt" alt="Coding" wigth="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
-
-- 📫 How to reach me **jakihop889@gmail.com**
-- 💬 ask me about anything, i am happy to help;
-  
-
-
 <h1 align="center">Hi 👋, I'm salem almaare</h1>
 <h3 align="center">Welcome to my corner of the web! I'm salem almaari, a passionate and dedicated web developer committed to crafting digital experiences that are not just visually appealing but also functional and user-friendly.</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
@@ -77,7 +66,12 @@ a passionate and dedicated web developer committed to crafting digital experienc
   <a href="https://www.svgrepo.com/svg/353925/javascript" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/373535/css.svg"alt="css" width="30" height="30"/> 
   </a>
-  
+
+   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30"height="30">
+   </a>
+   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/> </a>
 </div>
 
 
