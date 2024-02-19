@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm salem almaare</h1>
-<h3 align="center">Welcome to my corner of the web! I'm salem almaari, a passionate and dedicated web developer committed to crafting digital experiences that are not just visually appealing but also functional and user-friendly.</h3>
+<h3 align="left">Welcome to my corner of the web! I'm salem almaari, a passionate and dedicated web developer committed to crafting digital experiences that are not just visually appealing but also functional and user-friendly.</h3>
 
 
 <p align="left">
@@ -7,6 +7,7 @@
 
 
 
+<hr/>
 
 **Connect with me:**
 <p align="left">
@@ -29,6 +30,8 @@
 </a>
   
 </p>
+
+<hr/>
 
 **languages and tools:**
 <div align="left">
@@ -73,6 +76,7 @@
 </div>
 
 
+<hr/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salemovic99&show_icons=true&locale=en&layout=compact" alt="salemovic99" /></p>
 
