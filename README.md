@@ -10,29 +10,6 @@
 <br/>
 
 
-**Connect with me:**
-<p align="left">
-  
-<a href="https://twitter.com/salemovic90" target="blank">
-  <img align="center" src="https://www.svgrepo.com/show/475689/twitter-color.svg" alt="salemovic90" height="30" width="40" />
-  </a>
-  
-<a href="https://instagram.com/salemovicc" target="blank">
-  <img align="center" src="https://www.svgrepo.com/show/475658/instagram-color.svg" alt="salemovicc" height="30" width="40" />
-  </a>
-
-
-<a href="mailto:jakihop889gmail.com" target="blank">
-  <img align="center" src="https://www.svgrepo.com/show/468758/email.svg" alt="salemovicc" height="30" width="40" />
-</a>
-
-  <a href="https://github.com/salemovic99" target="blank">
-  <img align="center" src="https://www.svgrepo.com/show/512317/github-142.svg" alt="salemovicc" height="30" width="40" />
-</a>
-  
-</p>
-
-<br/>
 
 **languages and tools:**
 <div align="left">
@@ -83,8 +60,8 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salemovic99&show_icons=true&locale=en" alt="salemovic99" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salemovic99&show_icons=true&locale=en&theme=dark" alt="salemovic99" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salemovic99&show_icons=true&locale=en&layout=compact" alt="salemovic99" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salemovic99&show_icons=true&locale=en" alt="salemovic99" /></p>
                   
 
