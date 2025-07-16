@@ -23,4 +23,15 @@ C# | ASP.NET Core | FastAPI | Python  | PostgreSQL
 
 # Tools
 Git | GitHub | Docker  | VS Code | Visual Studio
+```
 
+## 🔗 Connect with Me
+
+- **GitHub:** [salemovic99](https://github.com/salemovic99)  
+- **Email:** salemalmaare@gmail.com
+- **LinkedIn:** 
+- **Portfolio:** 
+
+---
+
+### ✨ Let’s build something great together!
