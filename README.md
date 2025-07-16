@@ -1,66 +1,27 @@
-<h1 align="center">Hi 👋, I'm salem almaare</h1>
-<h3 align="left">Welcome to my corner of the web! I'm salem almaari, a passionate and dedicated web developer committed to crafting digital experiences that are not just visually appealing but also functional and user-friendly.</h3>
+![Header Banner](https://via.placeholder.com/960x200.png?text=Salem+Almaare+|+Web+Developer)
 
+# 👋 Hi, I'm **Salem Almaare**  
+**Web Developer** passionate about crafting clean, functional, and user-friendly digital experiences.
 
-<p align="left">
-</p>
+---
 
+---
 
+## 💡 Get Involved
 
-<br/>
+- ⭐ Pro-tip: Add **setup instructions**, **screenshots**, and **live demo links** to each repo for better impact.
+- 📖 Share **usage guides** or explain your tech architecture—this helps recruiters and collaborators understand your approach.
+- 🤝 Open to **collaboration**, **mentorship**, or **freelance projects**—feel free to reach out!
 
+---
 
+## 🔗 Connect with Me
 
-**languages and tools:**
-<div align="left">
-  
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/349328/cplusplus.svg" alt="cplusplus" width="30" height="30"/>   
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/452184/csharp.svg" alt="csharp" width="30" height="30"/> 
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/376369/dotnet.svg" alt="dotnet" width="30" height="30"/>
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/353778/git.svg" alt="git" width="30" height="30"/>
-  </a>
-   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/512317/github-142.svg" alt="github" width="30" height="30"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"  alt="mssql" width="30" height="30"/> 
-  </a>
-  <a href="https://www.svgrepo.com/svg/353925/javascript" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/353925/javascript.svg"alt="javascript" width="30" height="30"/> 
-  </a>
+- **GitHub:** [salemovic99](https://github.com/salemovic99)  
+- **Email:** salem.almaare@example.com *(replace with your real one)*  
+- **LinkedIn:** [linkedin.com/in/yourprofile](#)  
+- **Portfolio:** [your-portfolio.com](#)
 
-  <a href="https://www.svgrepo.com/svg/353925/javascript" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/452228/html-5.svg"alt="html" width="30" height="30"/> 
-  </a>
-  <a href="https://www.svgrepo.com/svg/353925/javascript" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/373535/css.svg"alt="css" width="30" height="30"/> 
-  </a>
+---
 
-   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30"height="30">
-   </a>
-   
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/>
-  </a>
-</div>
-
-
-
-<br/>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salemovic99&show_icons=true&locale=en" alt="salemovic99" /></p>
-                  
-
+### ✨ Let’s build something great together!
