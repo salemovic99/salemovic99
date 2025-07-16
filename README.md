@@ -18,9 +18,9 @@
 ## 🔗 Connect with Me
 
 - **GitHub:** [salemovic99](https://github.com/salemovic99)  
-- **Email:** salem.almaare@example.com *(replace with your real one)*  
-- **LinkedIn:** [linkedin.com/in/yourprofile](#)  
-- **Portfolio:** [your-portfolio.com](#)
+- **Email:** salemalmaare@gmail.com 
+- **LinkedIn:**
+- **Portfolio:** 
 
 ---
 
