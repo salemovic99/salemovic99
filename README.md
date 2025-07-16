@@ -16,10 +16,10 @@ I’m a software developer focused on building clean, modern, and user-friendly 
 
 ```bash
 # Web
-HTML5 | CSS3 | JavaScript | Tailwind CSS | Bootstrap | React | Next.js
+HTML5 | CSS3 | JavaScript | Tailwind CSS | Bootstrap  | Next.js
 
 # Backend
-C# | ASP.NET Core | FastAPI | Python  | PostgreSQL
+C# | ASP.NET Core | FastAPI | Python | MSSQL SERVER | PostgreSQL
 
 # Tools
 Git | GitHub | Docker  | VS Code | Visual Studio
