@@ -14,7 +14,7 @@ I’m a software developer focused on building clean, modern, and user-friendly 
 ## 🚀 Technologies I Use
 
 ```bash
-# Web
+# frontend
 HTML5 | CSS3 | JavaScript | Tailwind CSS | Bootstrap  | Next.js
 
 # Backend
