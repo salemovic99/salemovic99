@@ -8,7 +8,6 @@ I’m a software developer focused on building clean, modern, and user-friendly 
 - 🧠 Learning: FastAPI, Next.js, PostgreSQL, Redis
 - 🛠 Working with:  ASP.NET Core,entity framework, MS sql server
 - 💡 Interests: System Design, DevOps, AI Integration
-- 📍 Based in: Saudi Arabia
 
 ---
 
