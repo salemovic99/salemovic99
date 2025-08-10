@@ -1,7 +1,7 @@
 ![Header](https://via.placeholder.com/1000x200.png?text=Welcome+to+Salem+Almaare%27s+GitHub)
 
 # 👋 Hello, I’m Salem Al-Maari
-### Passionate Web Developer | C# Enthusiast | FastAPI & Next.js 
+### Passionate Web Developer 
 
 I’m a software developer focused on building clean, modern, and user-friendly applications. I love exploring full-stack technologies and crafting solutions that are both visually appealing and technically strong.
 
