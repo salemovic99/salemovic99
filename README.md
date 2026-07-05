@@ -10,9 +10,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Applications;ASP.NET+Core+Backend+Developer;Full+Stack+Developer;Clean+Architecture+Enthusiast;Always+Learning+New+Technologies" />
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=salemovic99&style=for-the-badge&color=0e75b6"/>
+<img src="https://img.shields.io/github/followers/salemovic99?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/salemovic99?style=for-the-badge"/>
 </p>
 
 </div>
@@ -62,7 +62,7 @@ I enjoy building scalable, secure, and high-performance applications with clean 
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15)
+![](https://github-profile-trophy.vercel.app/?username=salemovic99&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15)
 
 ---
 
@@ -70,11 +70,11 @@ I enjoy building scalable, secure, and high-performance applications with clean 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=salemovic99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=salemovic99&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salemovic99&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -82,7 +82,7 @@ I enjoy building scalable, secure, and high-performance applications with clean 
 
 # 📊 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/YOUR_USERNAME)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=salemovic99&theme=tokyo-night&hide_border=true)](https://github.com/salemovic99)
 
 ---
 
@@ -91,7 +91,7 @@ I enjoy building scalable, secure, and high-performance applications with clean 
 > Enable the GitHub Action below to generate this automatically.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/salemovic99/salemovic99/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -132,7 +132,7 @@ I enjoy building scalable, secure, and high-performance applications with clean 
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/salemovic99">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
@@ -188,7 +188,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: YOUR_USERNAME
+          github_user_name: salemovic99
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
