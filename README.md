@@ -140,7 +140,7 @@ I enjoy building scalable, secure, and high-performance applications with clean 
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:salemalmaare@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
