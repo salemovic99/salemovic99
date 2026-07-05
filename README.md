@@ -84,8 +84,8 @@ I enjoy building scalable, secure, and high-performance applications with clean 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=salemovic99&theme=tokyo-night&hide_border=true)](https://github.com/salemovic99)
 
 ---
-# contributions in the last year
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salemovic99&theme=tokyonight)
+# Contributions in the last year
+![]([https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salemovic99&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salemovic99&theme=tokyonight))
 
 ---
 
