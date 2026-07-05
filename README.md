@@ -84,6 +84,10 @@ I enjoy building scalable, secure, and high-performance applications with clean 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=salemovic99&theme=tokyo-night&hide_border=true)](https://github.com/salemovic99)
 
 ---
+# contributions in the last year
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salemovic99&theme=tokyonight)
+
+---
 
 # 🐍 Contribution Snake
 
@@ -160,3 +164,9 @@ I enjoy building scalable, secure, and high-performance applications with clean 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:38BDF8"/>
 
 </div>
+
+## 🤝 Let's Build Something Amazing Together
+
+I'm always interested in collaborating on exciting projects, contributing to open source, and connecting with fellow developers.
+
+⭐ Feel free to explore my repositories and don't hesitate to reach out.
