@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:2563EB,100:38BDF8&text=Salem%20Almaari&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Full%20Stack%20Web%20Developer%20•%20ASP.NET%20Core%20Developer&descAlignY=58"/>
@@ -10,9 +10,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Applications;ASP.NET+Core+Backend+Developer;Full+Stack+Developer;Clean+Architecture+Enthusiast;Always+Learning+New+Technologies" />
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=salemovic99&style=for-the-badge&color=0e75b6"/>
-<img src="https://img.shields.io/github/followers/salemovic99?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/salemovic99?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/salemovic99?style=for-the-badge&logo=github"/>
+<img src="https://komarev.com/ghpvc/?username=salemovic99&style=for-the-badge"/>
 </p>
 
 </div>
@@ -198,4 +197,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
