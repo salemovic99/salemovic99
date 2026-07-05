@@ -1,36 +1,201 @@
-![Header](https://via.placeholder.com/1000x200.png?text=Welcome+to+Salem+Almaare%27s+GitHub)
+```markdown
+<div align="center">
 
-# 👋 Hello, I’m Salem Al-Maari
-### Passionate Web Developer 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:2563EB,100:38BDF8&text=Salem%20Almaari&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Full%20Stack%20Web%20Developer%20•%20ASP.NET%20Core%20Developer&descAlignY=58"/>
 
-I’m a software developer focused on building clean, modern, and user-friendly applications. I love exploring full-stack technologies and crafting solutions that are both visually appealing and technically strong.
+# 👋 Hi, I'm Salem Almaari
 
-- 🧠 Learning: FastAPI, Next.js, PostgreSQL, Redis
-- 🛠 Working with:  ASP.NET Core,entity framework, MS sql server
-- 💡 Interests: System Design, DevOps, AI Integration
+### 🚀 Full Stack Web Developer | ASP.NET Core Developer | Backend Engineer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Applications;ASP.NET+Core+Backend+Developer;Full+Stack+Developer;Clean+Architecture+Enthusiast;Always+Learning+New+Technologies" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6"/>
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>
+</p>
+
+</div>
 
 ---
 
-## 🚀 Technologies I Use
+# 💫 About Me
 
-```bash
-# frontend
-HTML5 | CSS3 | JavaScript | Tailwind CSS | Bootstrap  | Next.js
+I'm **Salem Almaari**, a passionate **Full Stack Web Developer** specializing in **ASP.NET Core** and modern web technologies.
 
-# Backend
-C# | ASP.NET Core | FastAPI | Python | MSSQL SERVER | PostgreSQL
+I enjoy building scalable, secure, and high-performance applications with clean architecture, maintainable code, and exceptional user experiences.
 
-# Tools
-Git | GitHub | Docker  | VS Code | Visual Studio
+### 🚀 What I Do
+
+- 💻 Build Modern Web Applications
+- ⚙️ Develop High-Performance REST APIs
+- 🏗 Design Clean Architecture Solutions
+- 🔐 Implement Secure Authentication & Authorization
+- 🐳 Dockerize Applications
+- 📊 Build Modern SaaS Dashboards
+- 🚀 Optimize Performance & Scalability
+
+---
+
+# ⚡ Tech Stack
+
+## 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,nextjs"/>
+</p>
+
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,fastapi,postgres"/>
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+## 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15)
+
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/YOUR_USERNAME)
+
+---
+
+# 🐍 Contribution Snake
+
+> Enable the GitHub Action below to generate this automatically.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🚀 Current Focus
+
+- ASP.NET Core 9
+- Clean Architecture
+- SaaS Platforms
+- REST APIs
+- Authentication & Identity
+- Docker & Containers
+- PostgreSQL & SQL Server
+- Performance Optimization
+- Modern UI/UX
+- Enterprise Software
+
+---
+
+# 🌱 Currently Learning
+
+- Microservices
+- Kubernetes
+- Azure Cloud
+- CI/CD Pipelines
+- System Design
+- Event-Driven Architecture
+
+---
+
+# 💭 Developer Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💡 Philosophy
+
+> **"Great software is built with clean code, thoughtful design, and a passion for solving real-world problems."**
+
+---
+
+⭐ **If you like my work, consider following me and starring my repositories!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:38BDF8"/>
+
+</div>
 ```
 
-## 🔗 Connect with Me
+### 🐍 GitHub Snake Animation Setup
 
-- **GitHub:** [salemovic99](https://github.com/salemovic99)  
-- **Email:** salemalmaare@gmail.com
-- **LinkedIn:** 
-- **Portfolio:** https://my-portfolio-website-mauve-three.vercel.app/
+Create this workflow:
 
----
+`.github/workflows/snake.yml`
 
-### ✨ Let’s build something great together!
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: YOUR_USERNAME
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
