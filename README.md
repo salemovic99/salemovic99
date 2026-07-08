@@ -118,7 +118,7 @@ I enjoy building scalable, secure, and high-performance applications with clean 
 
 - Microservices
 - Kubernetes
-- Azure Cloud
+- AWS Cloud
 - CI/CD Pipelines
 - System Design
 
