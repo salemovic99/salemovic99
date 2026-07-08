@@ -7,7 +7,7 @@
 
 ### 🚀 Full Stack Web Developer | Software Engineer| Backend Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Applications;ASP.NET+Core+Backend+Developer;Full+Stack+Developer;Clean+Architecture+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Applications;+Backend+Engineer;Full+Stack+Developer;Clean+Architecture+Enthusiast;Always+Learning+New+Technologies" />
 
 <p>
 <img src="https://img.shields.io/github/followers/salemovic99?style=for-the-badge&logo=github"/>
