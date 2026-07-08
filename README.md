@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Salem Almaari
 
-### 🚀 Full Stack Web Developer | ASP.NET Core Developer | Backend Engineer
+### 🚀 Full Stack Web Developer | Software Engineer| Backend Engineer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Applications;ASP.NET+Core+Backend+Developer;Full+Stack+Developer;Clean+Architecture+Enthusiast;Always+Learning+New+Technologies" />
 
@@ -121,7 +121,6 @@ I enjoy building scalable, secure, and high-performance applications with clean 
 - Azure Cloud
 - CI/CD Pipelines
 - System Design
-- Event-Driven Architecture
 
 ---
 
