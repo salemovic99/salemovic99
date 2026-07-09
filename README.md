@@ -160,7 +160,6 @@ I enjoy building scalable, secure, and high-performance applications with clean 
 
 ⭐ **If you like my work, consider following me and starring my repositories!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:38BDF8"/>
 
 </div>
 
