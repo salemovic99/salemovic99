@@ -101,7 +101,6 @@ I enjoy building scalable, secure, and high-performance applications with clean 
 
 # 🚀 Current Focus
 
-- ASP.NET Core 9
 - Clean Architecture
 - SaaS Platforms
 - REST APIs
