@@ -47,7 +47,7 @@ I enjoy building scalable, secure, and high-performance applications with clean 
 ## ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,fastapi,postgres"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,fastapi,postgres,mysql"/>
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
