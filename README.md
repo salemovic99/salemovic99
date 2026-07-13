@@ -54,7 +54,7 @@ I enjoy building scalable, secure, and high-performance applications with clean 
 ## 🛠 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux"/>
 </p>
 
 ---
