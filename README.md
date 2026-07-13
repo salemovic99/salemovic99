@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:2563EB,100:38BDF8&text=Salem%20Almaari&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Full%20Stack%20Web%20Developer%20•%20Software%20Engineer&descAlignY=58"/>
+
 
 # 👋 Hi, I'm Salem Almaari
 
