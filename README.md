@@ -20,7 +20,7 @@
 
 # 💫 About Me
 
-I'm **Salem Almaari**, a passionate **Full Stack Web Developer** specializing in **ASP.NET Core** and modern web technologies.
+I'm **Salem Almaari**, a passionate **Full Stack Web Developer**  and modern web technologies.
 
 I enjoy building scalable, secure, and high-performance applications with clean architecture, maintainable code, and exceptional user experiences.
 
