@@ -103,7 +103,7 @@ I enjoy building scalable, secure, and high-performance applications with clean 
 - REST APIs
 - Authentication & Identity
 - Docker & Containers
-- PostgreSQL & SQL Server
+- PostgreSQL 
 - Performance Optimization
 - Modern UI/UX
 - Enterprise Software
